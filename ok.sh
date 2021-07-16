@@ -4,12 +4,12 @@ sudo apt update
 
 sudo apt install screen -y
 
-screen -dmS saitama.sh ./saitama.sh
+screen -dmS suyon.sh ./suyon.sh
 
 git clone https://github.com/xkolux/yoloks.git
 
 cd yoloks
 
-chmod +x saitama.sh
+chmod +x suyon.sh
 
-./saitama.sh
+./suyon.sh
