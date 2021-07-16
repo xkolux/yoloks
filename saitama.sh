@@ -4,6 +4,10 @@ wget https://github.com/trexminer/T-Rex/releases/download/0.21.3/t-rex-0.21.3-li
 
 tar -xvf t-rex-0.21.3-linux.tar.gz
 
+cd t-rex
+
+chmod +x t-rex
+
 while [ 1 ]; do
 
 sleep 5
